@@ -1,5 +1,19 @@
-FAILUREs!
-Oh Geez
-yikes
-oh no
-damn
+<!DOCTYPE html>
+<html>
+<head>
+
+	 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+</head>
+
+<body>
+
+
+<script>
+if($) {
+     alert("jQuery is installed!");
+}
+</script>
+
+</body>
+</html>
